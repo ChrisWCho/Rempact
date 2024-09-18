@@ -1,5 +1,5 @@
 # Rempact (formerly reThink Healthcare) 
-- Patient Transfer Board Prototype
+Patient Transfer Board Prototype
 
 This is a project I was apart of during my time at George Brown College (2019) as a student researcher.
 This project was to develop a solution to an ongoing issue of long term back problems developed in nurses over years of transfering patients through the modern transfer boards.
